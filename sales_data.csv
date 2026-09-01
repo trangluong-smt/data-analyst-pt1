@@ -1,0 +1,501 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Discount,Region,Salesperson
+ORD00365,2026-01-01,C015,Hoang Thu Ha,Keyboard,Accessories,1,63.21,0.1,West,Trang
+ORD00002,2026-01-02,C088,Phan Duc Tuan,Webcam,Electronics,3,69.25,0.1,South,Trang
+ORD00489,2026-01-02,C008,Huynh Kim Thao,Keyboard,Accessories,6,63.12,0.2,North,Lan
+ORD00313,2026-01-04,C058,Doan Thu Phuong,Keyboard,Accessories,5,61.37,0.0,West,Chi
+ORD00398,2026-01-05,C084,Pham Quang Duy,Webcam,Electronics,4,70.77,0.0,North,Chi
+ORD00434,2026-01-05,C057,Phan Duc Tuan,Mouse,Accessories,1,32.09,0.0,West,Lan
+ORD00195,2026-01-06,C039,Ngo Minh Quan,Desk,Office,2,297.95,0.1,Central,Chi
+ORD00146,2026-01-07,C009,Le Minh Chau,Headphones,Accessories,2,84.54,0.0,South,Chi
+ORD00384,2026-01-07,C036,Tran Thi Binh,Desk,Office,3,263.72,0.0,Central,Dung
+ORD00261,2026-01-08,C064,Ngo Minh Quan,Mouse,Accessories,2,31.59,0.05,East,An
+ORD00392,2026-01-08,C097,Dang Ngoc Mai,Headphones,Accessories,5,90.68,0.05,North,Trang
+ORD00408,2026-01-09,C054,Bui Gia Nam,Laptop,Electronics,2,1126.75,0.05,Central,Binh
+ORD00480,2026-01-09,C092,Vo Thanh Lam,Desk,Office,3,265.21,0.1,West,Binh
+ORD00145,2026-01-10,C016,Dang Ngoc Mai,Keyboard,Accessories,10,55.58,0.15,North,Minh
+ORD00200,2026-01-10,C067,Vo Thanh Lam,Printer,Office,2,210.66,0.0,South,Huy
+ORD00227,2026-01-11,C010,Doan Thu Phuong,Monitor,Electronics,2,333.55,0.0,West,Huy
+ORD00247,2026-01-11,C050,Mai Anh,Laptop,Electronics,4,1115.17,0.05,North,Minh
+ORD00142,2026-01-12,C019,Hoang Thu Ha,Laptop,Electronics,1,1105.01,0.15,East,Chi
+ORD00267,2026-01-12,C047,Tran Thi Binh,Tablet,Electronics,3,530.34,0.0,West,Huy
+ORD00301,2026-01-12,C074,Bui Gia Nam,Webcam,Electronics,2,80.57,0.1,East,Dung
+ORD00305,2026-01-12,C011,Nguyen Ha,Mouse,Accessories,3,31.84,0.0,North,Minh
+ORD00357,2026-01-12,C070,Nguyen Van An,Monitor,Electronics,4,371.12,0.0,Central,Chi
+ORD00044,2026-01-13,C030,Le Minh Chau,Headphones,Accessories,3,93.26,0.05,North,Trang
+ORD00211,2026-01-13,C073,Hoang Thu Ha,Printer,Office,2,237.37,0.1,West,Minh
+ORD00491,2026-01-13,C035,Pham Quang Duy,Laptop,Electronics,2,1162.37,0.05,Central,Chi
+ORD00198,2026-01-14,C089,Pham Quang Duy,Laptop,Electronics,2,1181.76,0.0,South,Minh
+ORD00429,2026-01-14,C034,Mai Anh,Laptop,Electronics,5,1239.11,0.0,East,Trang
+ORD00014,2026-01-15,C090,Ngo Minh Quan,Headphones,Accessories,4,90.33,0.05,East,Huy
+ORD00108,2026-01-15,C029,Nguyen Van An,Tablet,Electronics,3,471.14,0.0,East,Lan
+ORD00428,2026-01-15,C100,Pham Quang Duy,Headphones,Accessories,8,88.28,0.05,South,An
+ORD00368,2026-01-16,C066,Bui Gia Nam,Tablet,Electronics,1,501.81,0.15,North,Minh
+ORD00391,2026-01-16,C080,Huynh Kim Thao,Chair,Office,2,176.31,0.0,West,Dung
+ORD00295,2026-01-17,C098,Vo Thanh Lam,Webcam,Electronics,4,77.49,0.0,South,An
+ORD00099,2026-01-20,C012,Tran Minh,Keyboard,Accessories,8,57.12,0.1,North,Binh
+ORD00242,2026-01-20,C082,Ngo Minh Quan,Mouse,Accessories,1,29.26,0.05,North,Binh
+ORD00196,2026-01-21,C015,Nguyen Van An,Keyboard,Accessories,2,59.67,0.0,Central,Binh
+ORD00255,2026-01-21,C042,Mai Anh,Mouse,Accessories,2,29.81,0.0,North,An
+ORD00290,2026-01-21,C068,Tran Thi Binh,Webcam,Electronics,1,75.74,0.05,North,Chi
+ORD00292,2026-01-21,C082,Hoang Thu Ha,Webcam,Electronics,4,74.93,0.05,Central,Minh
+ORD00422,2026-01-22,C085,Vo Thanh Lam,Mouse,Accessories,10,28.66,0.0,West,Trang
+ORD00432,2026-01-22,C057,Hoang Thu Ha,Chair,Office,3,174.72,0.05,Central,Binh
+ORD00379,2026-01-23,C085,Hoang Thu Ha,Mouse,Accessories,3,27.62,0.1,Central,Huy
+ORD00459,2026-01-23,C025,Hoang Thu Ha,Keyboard,Accessories,2,60.14,0.0,West,Minh
+ORD00009,2026-01-24,C026,Doan Thu Phuong,Tablet,Electronics,5,503.18,0.1,East,Dung
+ORD00416,2026-01-24,C027,Bui Gia Nam,Laptop,Electronics,8,1182.61,0.05,West,Dung
+ORD00271,2026-01-25,C008,Ngo Minh Quan,Monitor,Electronics,1,354.32,0.0,South,Trang
+ORD00380,2026-01-25,C094,Doan Thu Phuong,Monitor,Electronics,1,359.86,0.0,West,Dung
+ORD00063,2026-01-27,C066,Hoang Thu Ha,Webcam,Electronics,2,73.76,0.0,West,Huy
+ORD00112,2026-01-27,C069,Pham Quang Duy,Laptop,Electronics,3,1241.51,0.05,Central,Lan
+ORD00370,2026-01-27,C093,Dang Ngoc Mai,Keyboard,Accessories,5,59.09,0.15,West,Minh
+ORD00059,2026-01-28,C078,Tran Minh,Laptop,Electronics,8,1172.14,0.1,East,Chi
+ORD00341,2026-01-28,C021,Vo Thanh Lam,Headphones,Accessories,2,92.19,0.1,Central,Binh
+ORD00129,2026-01-29,C060,Tran Thi Binh,Desk,Office,5,296.86,0.0,South,An
+ORD00350,2026-01-29,C077,Huynh Kim Thao,Mouse,Accessories,2,30.22,0.2,East,An
+ORD00081,2026-01-30,C079,Huynh Kim Thao,Monitor,Electronics,1,355.04,0.0,Central,Minh
+ORD00082,2026-01-30,C051,Nguyen Van An,Desk,Office,3,298.39,0.05,West,Huy
+ORD00309,2026-01-30,C090,Hoang Thu Ha,Keyboard,Accessories,1,63.65,0.1,East,Trang
+ORD00342,2026-01-30,C060,Phan Duc Tuan,Mouse,Accessories,1,31.74,0.05,South,Trang
+ORD00287,2026-01-31,C084,Bui Gia Nam,Chair,Office,1,169.5,0.05,North,Dung
+ORD00266,2026-02-01,C051,Nguyen Ha,Printer,Office,8,206.68,0.0,North,Trang
+ORD00049,2026-02-02,C094,Hoang Thu Ha,Mouse,Accessories,1,29.87,0.05,South,Binh
+ORD00074,2026-02-02,C065,Tran Thi Binh,Laptop,Electronics,5,1135.65,0.05,North,Chi
+ORD00139,2026-02-02,C036,Tran Minh,Mouse,Accessories,3,31.12,0.15,East,Chi
+ORD00078,2026-02-03,C092,Tran Minh,Keyboard,Accessories,1,62.47,0.1,South,Binh
+ORD00257,2026-02-03,C008,Huynh Kim Thao,Laptop,Electronics,6,1226.34,0.05,North,Minh
+ORD00374,2026-02-03,C082,Bui Gia Nam,Webcam,Electronics,4,70.9,0.0,South,Minh
+ORD00366,2026-02-04,C066,Tran Minh,Tablet,Electronics,5,530.75,0.1,North,Binh
+ORD00492,2026-02-04,C086,Vo Thanh Lam,Webcam,Electronics,2,69.96,0.0,South,An
+ORD00040,2026-02-05,C045,Pham Quang Duy,Keyboard,Accessories,3,55.25,0.0,North,Trang
+ORD00222,2026-02-05,C084,Pham Quang Duy,Desk,Office,1,269.09,0.05,North,Dung
+ORD00406,2026-02-05,C092,Phan Duc Tuan,Chair,Office,5,189.66,0.05,South,Minh
+ORD00481,2026-02-05,C086,Nguyen Ha,Webcam,Electronics,4,76.85,0.05,South,Dung
+ORD00148,2026-02-06,C043,Bui Gia Nam,Printer,Office,1,205.11,0.0,South,Minh
+ORD00033,2026-02-07,C051,Vo Thanh Lam,Laptop,Electronics,2,1150.85,0.0,Central,Chi
+ORD00451,2026-02-07,C019,Pham Quang Duy,Desk,Office,1,295.16,0.15,Central,Minh
+ORD00174,2026-02-08,C015,Dang Ngoc Mai,Keyboard,Accessories,10,59.53,0.0,West,Huy
+ORD00405,2026-02-08,C081,Huynh Kim Thao,Mouse,Accessories,4,30.67,0.0,East,Trang
+ORD00161,2026-02-09,C025,Hoang Thu Ha,Webcam,Electronics,8,78.71,0.1,Central,Chi
+ORD00189,2026-02-10,C060,Ngo Minh Quan,Headphones,Accessories,5,92.07,0.05,Central,Binh
+ORD00300,2026-02-11,C099,Vo Thanh Lam,Headphones,Accessories,1,86.87,0.0,East,Minh
+ORD00205,2026-02-12,C098,Doan Thu Phuong,Printer,Office,4,219.29,0.0,South,Huy
+ORD00217,2026-02-12,C048,Dang Ngoc Mai,Monitor,Electronics,3,348.69,0.0,South,Dung
+ORD00500,2026-02-12,C079,Phan Duc Tuan,Monitor,Electronics,1,356.14,0.1,East,Lan
+ORD00092,2026-02-13,C025,Nguyen Van An,Laptop,Electronics,2,1166.88,0.0,West,Dung
+ORD00386,2026-02-13,C047,Hoang Thu Ha,Mouse,Accessories,1,30.08,0.0,South,Lan
+ORD00163,2026-02-14,C096,Nguyen Ha,Monitor,Electronics,6,325.44,0.2,West,Chi
+ORD00166,2026-02-14,C058,Doan Thu Phuong,Monitor,Electronics,4,371.37,0.0,Central,Minh
+ORD00035,2026-02-15,C006,Le Minh Chau,Chair,Office,1,179.13,0.2,East,An
+ORD00053,2026-02-15,C002,Mai Anh,Printer,Office,1,209.95,0.0,Central,Binh
+ORD00113,2026-02-15,C012,Ngo Minh Quan,Webcam,Electronics,3,74.54,0.0,West,Trang
+ORD00151,2026-02-15,C029,Nguyen Ha,Monitor,Electronics,2,325.92,0.15,North,Huy
+ORD00330,2026-02-15,C062,Bui Gia Nam,Keyboard,Accessories,1,55.25,0.05,Central,Dung
+ORD00333,2026-02-15,C045,Nguyen Van An,Headphones,Accessories,4,84.69,0.2,East,Chi
+ORD00048,2026-02-16,C094,Nguyen Ha,Monitor,Electronics,1,327.14,0.0,East,Huy
+ORD00068,2026-02-16,C021,Vo Thanh Lam,Mouse,Accessories,5,30.27,0.2,West,Chi
+ORD00069,2026-02-16,C049,Nguyen Ha,Webcam,Electronics,1,69.91,0.05,North,Huy
+ORD00089,2026-02-16,C056,Vo Thanh Lam,Webcam,Electronics,1,80.84,0.05,South,Dung
+ORD00111,2026-02-16,C068,Phan Duc Tuan,Monitor,Electronics,2,330.4,0.1,West,Binh
+ORD00143,2026-02-16,C012,Nguyen Ha,Webcam,Electronics,1,74.35,0.15,Central,Trang
+ORD00218,2026-02-16,C015,Doan Thu Phuong,Tablet,Electronics,1,460.61,0.0,East,Chi
+ORD00325,2026-02-16,C015,Doan Thu Phuong,Headphones,Accessories,2,89.06,0.0,Central,Binh
+ORD00458,2026-02-16,C084,Le Minh Chau,Chair,Office,8,186.35,0.1,Central,Dung
+ORD00256,2026-02-17,C029,Nguyen Van An,Monitor,Electronics,3,367.3,0.15,South,Binh
+ORD00323,2026-02-17,C020,Hoang Thu Ha,Keyboard,Accessories,4,61.52,0.05,Central,Dung
+ORD00381,2026-02-17,C028,Doan Thu Phuong,Chair,Office,3,175.97,0.0,Central,Minh
+ORD00402,2026-02-17,C056,Huynh Kim Thao,Mouse,Accessories,3,30.66,0.0,South,Lan
+ORD00474,2026-02-17,C066,Bui Gia Nam,Laptop,Electronics,2,1277.14,0.1,East,Minh
+ORD00042,2026-02-18,C052,Ngo Minh Quan,Monitor,Electronics,10,370.18,0.1,Central,Dung
+ORD00351,2026-02-18,C013,Tran Thi Binh,Mouse,Accessories,2,28.34,0.05,West,Lan
+ORD00397,2026-02-18,C047,Pham Quang Duy,Printer,Office,2,211.55,0.05,East,An
+ORD00470,2026-02-18,C053,Nguyen Van An,Keyboard,Accessories,2,57.16,0.15,North,Lan
+ORD00007,2026-02-19,C004,Tran Thi Binh,Printer,Office,5,216.17,0.0,South,Dung
+ORD00310,2026-02-20,C047,Tran Thi Binh,Laptop,Electronics,4,1277.83,0.0,South,Chi
+ORD00136,2026-02-22,C071,Ngo Minh Quan,Keyboard,Accessories,4,61.28,0.0,West,An
+ORD00371,2026-02-22,C019,Doan Thu Phuong,Keyboard,Accessories,3,60.99,0.2,North,Lan
+ORD00079,2026-02-23,C005,Nguyen Ha,Headphones,Accessories,4,95.07,0.05,Central,An
+ORD00137,2026-02-23,C065,Le Minh Chau,Mouse,Accessories,2,27.83,0.05,West,Dung
+ORD00213,2026-02-23,C071,Doan Thu Phuong,Webcam,Electronics,2,73.51,0.1,West,Minh
+ORD00383,2026-02-23,C056,Vo Thanh Lam,Mouse,Accessories,4,31.77,0.0,North,Dung
+ORD00456,2026-02-23,C088,Pham Quang Duy,Laptop,Electronics,2,1114.79,0.05,East,Minh
+ORD00125,2026-02-24,C092,Tran Thi Binh,Keyboard,Accessories,6,62.89,0.05,West,Trang
+ORD00403,2026-02-24,C082,Ngo Minh Quan,Headphones,Accessories,1,91.35,0.0,East,Dung
+ORD00460,2026-02-24,C096,Hoang Thu Ha,Laptop,Electronics,5,1145.48,0.1,East,Lan
+ORD00090,2026-02-25,C007,Le Minh Chau,Mouse,Accessories,2,27.78,0.1,Central,Minh
+ORD00275,2026-02-25,C083,Hoang Thu Ha,Mouse,Accessories,2,29.07,0.0,South,Dung
+ORD00277,2026-02-26,C045,Pham Quang Duy,Desk,Office,1,273.53,0.05,North,Minh
+ORD00066,2026-02-27,C020,Phan Duc Tuan,Monitor,Electronics,2,348.24,0.0,West,Minh
+ORD00299,2026-02-27,C028,Ngo Minh Quan,Webcam,Electronics,5,74.41,0.0,North,Minh
+ORD00454,2026-02-27,C060,Vo Thanh Lam,Webcam,Electronics,1,73.94,0.1,South,Trang
+ORD00332,2026-02-28,C039,Dang Ngoc Mai,Chair,Office,2,180.91,0.1,North,Minh
+ORD00482,2026-02-28,C057,Bui Gia Nam,Mouse,Accessories,4,28.57,0.0,West,Chi
+ORD00178,2026-03-01,C046,Doan Thu Phuong,Desk,Office,3,281.94,0.05,North,Huy
+ORD00279,2026-03-01,C019,Nguyen Van An,Printer,Office,3,211.9,0.1,Central,Lan
+ORD00328,2026-03-02,C012,Vo Thanh Lam,Keyboard,Accessories,2,55.23,0.15,South,Chi
+ORD00469,2026-03-02,C029,Dang Ngoc Mai,Laptop,Electronics,8,1199.18,0.05,South,An
+ORD00478,2026-03-02,C079,Doan Thu Phuong,Desk,Office,2,293.64,0.0,East,Trang
+ORD00019,2026-03-03,C037,Nguyen Van An,Mouse,Accessories,2,30.16,0.0,Central,Binh
+ORD00331,2026-03-03,C054,Nguyen Ha,Monitor,Electronics,2,354.03,0.1,North,An
+ORD00438,2026-03-03,C041,Hoang Thu Ha,Headphones,Accessories,1,84.43,0.2,South,Binh
+ORD00487,2026-03-04,C022,Vo Thanh Lam,Desk,Office,2,259.0,0.0,West,Huy
+ORD00346,2026-03-05,C069,Bui Gia Nam,Mouse,Accessories,4,28.09,0.05,South,Trang
+ORD00376,2026-03-05,C029,Phan Duc Tuan,Printer,Office,2,235.5,0.0,Central,An
+ORD00385,2026-03-06,C100,Hoang Thu Ha,Tablet,Electronics,1,497.45,0.05,East,Chi
+ORD00273,2026-03-07,C041,Mai Anh,Keyboard,Accessories,4,61.1,0.1,North,Dung
+ORD00476,2026-03-08,C083,Le Minh Chau,Tablet,Electronics,1,463.43,0.15,Central,Minh
+ORD00229,2026-03-09,C090,Vo Thanh Lam,Desk,Office,1,294.28,0.0,South,Trang
+ORD00095,2026-03-11,C004,Nguyen Ha,Mouse,Accessories,8,28.68,0.0,Central,Lan
+ORD00010,2026-03-12,C009,Bui Gia Nam,Headphones,Accessories,1,83.87,0.1,North,Dung
+ORD00318,2026-03-12,C078,Tran Minh,Webcam,Electronics,4,69.22,0.1,North,Chi
+ORD00126,2026-03-13,C054,Doan Thu Phuong,Laptop,Electronics,1,1233.0,0.0,West,Chi
+ORD00005,2026-03-14,C039,Tran Thi Binh,Tablet,Electronics,2,514.42,0.1,East,An
+ORD00154,2026-03-14,C015,Nguyen Van An,Keyboard,Accessories,1,64.68,0.0,North,Trang
+ORD00442,2026-03-14,C097,Vo Thanh Lam,Printer,Office,4,222.24,0.0,North,Chi
+ORD00062,2026-03-15,C058,Phan Duc Tuan,Webcam,Electronics,2,70.72,0.0,North,Huy
+ORD00070,2026-03-15,C096,Bui Gia Nam,Desk,Office,2,298.6,0.1,East,Trang
+ORD00296,2026-03-15,C098,Le Minh Chau,Mouse,Accessories,1,28.64,0.05,West,Minh
+ORD00100,2026-03-18,C003,Nguyen Van An,Chair,Office,1,192.44,0.05,South,Trang
+ORD00185,2026-03-18,C026,Vo Thanh Lam,Laptop,Electronics,3,1119.84,0.15,South,Lan
+ORD00087,2026-03-19,C090,Mai Anh,Monitor,Electronics,2,342.4,0.0,Central,An
+ORD00123,2026-03-19,C047,Tran Thi Binh,Laptop,Electronics,2,1116.62,0.05,South,Lan
+ORD00197,2026-03-19,C002,Dang Ngoc Mai,Desk,Office,6,268.24,0.0,West,Huy
+ORD00219,2026-03-19,C068,Hoang Thu Ha,Mouse,Accessories,1,28.53,0.05,East,Lan
+ORD00097,2026-03-20,C006,Vo Thanh Lam,Tablet,Electronics,6,533.39,0.05,North,Lan
+ORD00436,2026-03-20,C087,Nguyen Ha,Mouse,Accessories,8,30.82,0.05,Central,Trang
+ORD00241,2026-03-21,C007,Pham Quang Duy,Mouse,Accessories,5,31.47,0.1,North,Minh
+ORD00404,2026-03-21,C066,Tran Thi Binh,Chair,Office,6,193.25,0.15,West,Binh
+ORD00483,2026-03-21,C081,Ngo Minh Quan,Webcam,Electronics,5,77.95,0.1,South,Binh
+ORD00426,2026-03-22,C034,Huynh Kim Thao,Tablet,Electronics,4,528.94,0.1,North,Huy
+ORD00427,2026-03-22,C063,Nguyen Van An,Monitor,Electronics,1,330.81,0.05,East,Trang
+ORD00073,2026-03-23,C069,Tran Minh,Desk,Office,1,294.45,0.15,North,Binh
+ORD00191,2026-03-23,C070,Tran Thi Binh,Monitor,Electronics,4,349.9,0.05,Central,Lan
+ORD00396,2026-03-24,C011,Mai Anh,Printer,Office,6,213.49,0.1,West,Trang
+ORD00430,2026-03-24,C065,Hoang Thu Ha,Desk,Office,5,300.92,0.05,Central,Trang
+ORD00006,2026-03-25,C092,Tran Minh,Tablet,Electronics,5,467.81,0.0,East,Minh
+ORD00017,2026-03-25,C030,Nguyen Ha,Keyboard,Accessories,1,57.3,0.05,Central,Trang
+ORD00077,2026-03-26,C078,Doan Thu Phuong,Printer,Office,4,215.7,0.1,North,Chi
+ORD00134,2026-03-26,C042,Pham Quang Duy,Monitor,Electronics,1,373.2,0.0,North,Lan
+ORD00238,2026-03-26,C002,Huynh Kim Thao,Laptop,Electronics,2,1173.15,0.0,North,An
+ORD00016,2026-03-27,C028,Tran Thi Binh,Chair,Office,1,173.94,0.0,South,Huy
+ORD00058,2026-03-27,C013,Huynh Kim Thao,Monitor,Electronics,6,368.28,0.05,Central,An
+ORD00131,2026-03-27,C024,Nguyen Van An,Mouse,Accessories,3,29.01,0.0,South,Lan
+ORD00294,2026-03-27,C033,Nguyen Van An,Laptop,Electronics,4,1121.06,0.0,West,Huy
+ORD00472,2026-03-27,C080,Doan Thu Phuong,Laptop,Electronics,4,1264.53,0.05,Central,Dung
+ORD00127,2026-03-29,C078,Bui Gia Nam,Webcam,Electronics,3,78.66,0.1,Central,Trang
+ORD00003,2026-03-30,C049,Huynh Kim Thao,Tablet,Electronics,3,460.57,0.05,Central,Minh
+ORD00105,2026-03-30,C042,Doan Thu Phuong,Monitor,Electronics,1,372.84,0.05,South,Trang
+ORD00209,2026-03-30,C046,Pham Quang Duy,Webcam,Electronics,5,70.36,0.1,North,An
+ORD00320,2026-03-30,C014,Huynh Kim Thao,Laptop,Electronics,1,1194.0,0.0,West,Chi
+ORD00054,2026-03-31,C034,Le Minh Chau,Desk,Office,1,295.45,0.0,North,Minh
+ORD00118,2026-03-31,C075,Vo Thanh Lam,Chair,Office,3,177.54,0.0,South,Minh
+ORD00210,2026-03-31,C062,Phan Duc Tuan,Keyboard,Accessories,3,61.45,0.0,South,Binh
+ORD00041,2026-04-02,C098,Tran Thi Binh,Desk,Office,4,272.74,0.15,Central,An
+ORD00086,2026-04-02,C042,Mai Anh,Monitor,Electronics,1,331.46,0.0,West,Lan
+ORD00245,2026-04-02,C013,Tran Minh,Keyboard,Accessories,1,56.37,0.1,East,Binh
+ORD00047,2026-04-03,C067,Phan Duc Tuan,Printer,Office,2,217.74,0.05,South,Trang
+ORD00214,2026-04-03,C089,Nguyen Van An,Printer,Office,3,215.79,0.05,North,Trang
+ORD00339,2026-04-03,C038,Le Minh Chau,Monitor,Electronics,1,363.49,0.05,South,An
+ORD00375,2026-04-03,C026,Tran Thi Binh,Laptop,Electronics,4,1104.03,0.0,North,Minh
+ORD00102,2026-04-04,C095,Nguyen Van An,Chair,Office,3,177.46,0.05,West,Lan
+ORD00085,2026-04-06,C067,Huynh Kim Thao,Desk,Office,1,276.04,0.05,West,Trang
+ORD00106,2026-04-07,C023,Tran Minh,Mouse,Accessories,4,30.6,0.15,North,An
+ORD00455,2026-04-08,C063,Vo Thanh Lam,Mouse,Accessories,3,27.91,0.15,Central,Binh
+ORD00468,2026-04-08,C013,Vo Thanh Lam,Desk,Office,2,266.72,0.1,North,Binh
+ORD00027,2026-04-09,C007,Phan Duc Tuan,Mouse,Accessories,1,31.81,0.15,South,Trang
+ORD00056,2026-04-09,C036,Tran Thi Binh,Headphones,Accessories,2,91.09,0.05,North,Minh
+ORD00354,2026-04-09,C082,Bui Gia Nam,Monitor,Electronics,5,365.81,0.0,North,Trang
+ORD00367,2026-04-09,C072,Le Minh Chau,Laptop,Electronics,2,1116.67,0.0,East,Huy
+ORD00493,2026-04-09,C003,Hoang Thu Ha,Chair,Office,1,183.44,0.1,West,Huy
+ORD00280,2026-04-10,C064,Le Minh Chau,Desk,Office,4,267.0,0.2,West,Dung
+ORD00377,2026-04-10,C082,Tran Minh,Mouse,Accessories,1,29.1,0.1,Central,Huy
+ORD00444,2026-04-10,C098,Nguyen Ha,Keyboard,Accessories,8,62.61,0.0,North,Huy
+ORD00304,2026-04-11,C032,Phan Duc Tuan,Tablet,Electronics,1,474.74,0.0,Central,Huy
+ORD00212,2026-04-12,C019,Vo Thanh Lam,Desk,Office,5,272.25,0.0,South,Binh
+ORD00457,2026-04-12,C038,Hoang Thu Ha,Keyboard,Accessories,4,59.12,0.0,West,Huy
+ORD00001,2026-04-13,C083,Dang Ngoc Mai,Mouse,Accessories,8,30.47,0.1,Central,Chi
+ORD00043,2026-04-13,C068,Vo Thanh Lam,Keyboard,Accessories,5,64.47,0.0,West,Trang
+ORD00107,2026-04-14,C051,Dang Ngoc Mai,Mouse,Accessories,2,27.92,0.05,Central,Lan
+ORD00141,2026-04-14,C042,Doan Thu Phuong,Mouse,Accessories,2,30.98,0.0,Central,Chi
+ORD00343,2026-04-14,C075,Ngo Minh Quan,Webcam,Electronics,5,74.17,0.15,Central,An
+ORD00394,2026-04-14,C009,Dang Ngoc Mai,Mouse,Accessories,1,30.39,0.05,West,Trang
+ORD00104,2026-04-15,C014,Phan Duc Tuan,Chair,Office,3,169.63,0.1,Central,Huy
+ORD00088,2026-04-17,C063,Mai Anh,Laptop,Electronics,2,1202.24,0.05,North,Binh
+ORD00165,2026-04-17,C045,Doan Thu Phuong,Printer,Office,5,227.33,0.1,West,Binh
+ORD00477,2026-04-17,C096,Huynh Kim Thao,Mouse,Accessories,2,30.75,0.1,Central,Binh
+ORD00119,2026-04-18,C051,Vo Thanh Lam,Mouse,Accessories,4,28.68,0.05,North,Minh
+ORD00221,2026-04-18,C074,Dang Ngoc Mai,Tablet,Electronics,5,469.86,0.05,West,Minh
+ORD00284,2026-04-19,C051,Hoang Thu Ha,Laptop,Electronics,5,1203.47,0.0,Central,Binh
+ORD00303,2026-04-19,C003,Huynh Kim Thao,Mouse,Accessories,3,30.54,0.0,South,Chi
+ORD00347,2026-04-19,C050,Hoang Thu Ha,Keyboard,Accessories,10,61.81,0.05,Central,Chi
+ORD00352,2026-04-19,C051,Ngo Minh Quan,Keyboard,Accessories,5,63.14,0.0,North,Huy
+ORD00182,2026-04-20,C095,Vo Thanh Lam,Mouse,Accessories,1,29.48,0.0,Central,Huy
+ORD00215,2026-04-20,C078,Ngo Minh Quan,Mouse,Accessories,1,30.5,0.0,South,Lan
+ORD00243,2026-04-20,C080,Vo Thanh Lam,Monitor,Electronics,5,349.28,0.15,West,Dung
+ORD00415,2026-04-22,C046,Phan Duc Tuan,Headphones,Accessories,1,87.06,0.0,North,Chi
+ORD00421,2026-04-22,C027,Le Minh Chau,Chair,Office,3,189.16,0.15,North,Lan
+ORD00021,2026-04-23,C056,Nguyen Van An,Tablet,Electronics,1,484.07,0.05,Central,An
+ORD00281,2026-04-23,C092,Huynh Kim Thao,Monitor,Electronics,4,342.8,0.0,Central,An
+ORD00453,2026-04-23,C060,Phan Duc Tuan,Mouse,Accessories,6,30.18,0.05,North,Lan
+ORD00496,2026-04-23,C042,Pham Quang Duy,Keyboard,Accessories,10,61.44,0.2,North,Lan
+ORD00263,2026-04-24,C010,Hoang Thu Ha,Keyboard,Accessories,1,59.79,0.15,East,Dung
+ORD00362,2026-04-24,C096,Vo Thanh Lam,Laptop,Electronics,10,1244.93,0.0,West,Lan
+ORD00364,2026-04-24,C008,Ngo Minh Quan,Desk,Office,3,301.98,0.1,North,Trang
+ORD00132,2026-04-25,C081,Nguyen Ha,Headphones,Accessories,6,88.92,0.1,North,Trang
+ORD00248,2026-04-25,C007,Phan Duc Tuan,Keyboard,Accessories,1,58.11,0.0,North,Dung
+ORD00413,2026-04-25,C019,Mai Anh,Desk,Office,3,272.22,0.0,East,Minh
+ORD00233,2026-04-26,C008,Vo Thanh Lam,Mouse,Accessories,2,29.74,0.2,East,Binh
+ORD00298,2026-04-26,C086,Tran Minh,Mouse,Accessories,5,31.24,0.05,West,Minh
+ORD00410,2026-04-26,C093,Pham Quang Duy,Tablet,Electronics,3,523.0,0.0,West,Chi
+ORD00045,2026-04-27,C062,Dang Ngoc Mai,Keyboard,Accessories,2,55.44,0.0,North,Dung
+ORD00135,2026-04-27,C086,Hoang Thu Ha,Laptop,Electronics,2,1242.28,0.05,Central,An
+ORD00181,2026-04-27,C002,Bui Gia Nam,Mouse,Accessories,1,27.91,0.05,Central,Trang
+ORD00471,2026-04-27,C032,Ngo Minh Quan,Chair,Office,1,181.75,0.05,East,Trang
+ORD00110,2026-04-28,C038,Mai Anh,Keyboard,Accessories,4,62.44,0.05,East,Huy
+ORD00121,2026-04-28,C086,Phan Duc Tuan,Desk,Office,1,264.26,0.15,West,Trang
+ORD00223,2026-04-28,C021,Vo Thanh Lam,Laptop,Electronics,3,1219.51,0.15,East,An
+ORD00186,2026-04-29,C044,Nguyen Van An,Headphones,Accessories,4,85.68,0.1,Central,Huy
+ORD00319,2026-04-30,C038,Hoang Thu Ha,Printer,Office,3,218.23,0.05,West,Dung
+ORD00452,2026-04-30,C091,Nguyen Ha,Headphones,Accessories,1,93.5,0.05,Central,Lan
+ORD00018,2026-05-01,C027,Nguyen Ha,Chair,Office,6,168.77,0.0,North,Dung
+ORD00152,2026-05-01,C010,Nguyen Ha,Laptop,Electronics,2,1156.16,0.05,North,Minh
+ORD00236,2026-05-01,C030,Hoang Thu Ha,Monitor,Electronics,10,352.24,0.15,East,Lan
+ORD00448,2026-05-01,C041,Ngo Minh Quan,Desk,Office,1,285.08,0.05,South,Dung
+ORD00190,2026-05-02,C019,Dang Ngoc Mai,Laptop,Electronics,1,1271.38,0.0,East,Huy
+ORD00349,2026-05-02,C037,Ngo Minh Quan,Keyboard,Accessories,1,56.45,0.05,East,Huy
+ORD00122,2026-05-03,C056,Le Minh Chau,Headphones,Accessories,3,93.6,0.0,West,An
+ORD00155,2026-05-04,C070,Dang Ngoc Mai,Monitor,Electronics,8,336.5,0.1,Central,Lan
+ORD00433,2026-05-04,C097,Nguyen Van An,Webcam,Electronics,6,77.09,0.0,East,Lan
+ORD00232,2026-05-05,C058,Le Minh Chau,Headphones,Accessories,6,90.47,0.05,South,Minh
+ORD00046,2026-05-06,C048,Doan Thu Phuong,Mouse,Accessories,1,28.8,0.0,West,Huy
+ORD00307,2026-05-06,C005,Le Minh Chau,Headphones,Accessories,3,95.62,0.1,West,Dung
+ORD00188,2026-05-07,C007,Huynh Kim Thao,Tablet,Electronics,3,508.98,0.1,East,Trang
+ORD00026,2026-05-08,C039,Tran Thi Binh,Keyboard,Accessories,3,61.83,0.0,North,Chi
+ORD00051,2026-05-08,C032,Huynh Kim Thao,Monitor,Electronics,1,323.48,0.05,East,Trang
+ORD00293,2026-05-08,C012,Doan Thu Phuong,Monitor,Electronics,3,376.43,0.05,West,An
+ORD00484,2026-05-08,C062,Vo Thanh Lam,Mouse,Accessories,5,31.42,0.05,North,Minh
+ORD00022,2026-05-09,C019,Nguyen Ha,Tablet,Electronics,2,487.61,0.0,South,Huy
+ORD00124,2026-05-09,C008,Mai Anh,Mouse,Accessories,2,28.35,0.05,Central,Trang
+ORD00207,2026-05-09,C008,Mai Anh,Desk,Office,1,301.05,0.05,West,Minh
+ORD00101,2026-05-10,C084,Nguyen Van An,Monitor,Electronics,1,340.05,0.2,West,An
+ORD00246,2026-05-10,C060,Dang Ngoc Mai,Keyboard,Accessories,5,55.37,0.0,Central,Minh
+ORD00251,2026-05-10,C062,Huynh Kim Thao,Webcam,Electronics,4,69.13,0.1,West,Lan
+ORD00179,2026-05-11,C093,Phan Duc Tuan,Chair,Office,4,187.52,0.1,West,Trang
+ORD00230,2026-05-11,C073,Bui Gia Nam,Keyboard,Accessories,1,63.78,0.0,North,Chi
+ORD00439,2026-05-11,C010,Tran Thi Binh,Printer,Office,1,205.01,0.05,North,Chi
+ORD00015,2026-05-12,C094,Hoang Thu Ha,Keyboard,Accessories,6,60.61,0.05,West,Minh
+ORD00414,2026-05-12,C023,Ngo Minh Quan,Webcam,Electronics,8,74.03,0.15,East,Minh
+ORD00252,2026-05-13,C065,Mai Anh,Chair,Office,3,171.06,0.05,West,Binh
+ORD00032,2026-05-15,C067,Nguyen Van An,Keyboard,Accessories,2,61.44,0.1,North,Trang
+ORD00288,2026-05-15,C035,Dang Ngoc Mai,Laptop,Electronics,2,1110.97,0.0,East,Lan
+ORD00360,2026-05-15,C035,Tran Minh,Mouse,Accessories,2,30.44,0.05,North,Trang
+ORD00098,2026-05-16,C026,Le Minh Chau,Monitor,Electronics,3,353.18,0.15,West,Dung
+ORD00244,2026-05-16,C021,Tran Thi Binh,Headphones,Accessories,2,88.09,0.0,East,An
+ORD00115,2026-05-17,C051,Mai Anh,Laptop,Electronics,3,1175.89,0.1,North,Lan
+ORD00283,2026-05-18,C050,Le Minh Chau,Desk,Office,8,282.94,0.0,West,Chi
+ORD00297,2026-05-18,C099,Le Minh Chau,Headphones,Accessories,1,94.41,0.05,North,Trang
+ORD00311,2026-05-19,C094,Tran Minh,Printer,Office,3,232.02,0.0,Central,Chi
+ORD00028,2026-05-20,C069,Hoang Thu Ha,Headphones,Accessories,3,84.14,0.0,Central,Minh
+ORD00356,2026-05-20,C021,Vo Thanh Lam,Tablet,Electronics,6,502.67,0.1,Central,Minh
+ORD00463,2026-05-21,C032,Nguyen Ha,Mouse,Accessories,3,30.83,0.0,East,Minh
+ORD00061,2026-05-22,C095,Ngo Minh Quan,Chair,Office,1,193.66,0.15,West,Chi
+ORD00080,2026-05-22,C066,Huynh Kim Thao,Printer,Office,2,230.02,0.0,Central,Minh
+ORD00153,2026-05-22,C030,Tran Thi Binh,Mouse,Accessories,4,28.13,0.0,East,Binh
+ORD00338,2026-05-22,C082,Le Minh Chau,Printer,Office,3,223.47,0.15,North,An
+ORD00387,2026-05-22,C010,Le Minh Chau,Keyboard,Accessories,6,62.01,0.1,North,Chi
+ORD00302,2026-05-23,C048,Nguyen Ha,Chair,Office,1,184.11,0.0,South,Binh
+ORD00337,2026-05-23,C041,Dang Ngoc Mai,Mouse,Accessories,4,27.98,0.0,South,Minh
+ORD00235,2026-05-24,C030,Mai Anh,Chair,Office,2,188.51,0.05,East,Chi
+ORD00264,2026-05-24,C032,Phan Duc Tuan,Mouse,Accessories,1,32.02,0.05,South,Chi
+ORD00064,2026-05-25,C071,Doan Thu Phuong,Keyboard,Accessories,3,63.65,0.1,West,Dung
+ORD00314,2026-05-25,C039,Doan Thu Phuong,Chair,Office,2,191.62,0.1,Central,Dung
+ORD00355,2026-05-25,C036,Vo Thanh Lam,Printer,Office,1,203.79,0.0,Central,Minh
+ORD00378,2026-05-25,C058,Dang Ngoc Mai,Mouse,Accessories,2,30.84,0.15,South,Huy
+ORD00147,2026-05-26,C059,Ngo Minh Quan,Tablet,Electronics,2,527.56,0.1,North,Lan
+ORD00228,2026-05-26,C067,Ngo Minh Quan,Laptop,Electronics,1,1218.63,0.0,West,Minh
+ORD00050,2026-05-27,C058,Nguyen Van An,Tablet,Electronics,6,461.22,0.0,West,Huy
+ORD00316,2026-05-27,C030,Tran Minh,Mouse,Accessories,1,28.22,0.0,Central,Dung
+ORD00361,2026-05-27,C063,Vo Thanh Lam,Webcam,Electronics,2,79.72,0.1,Central,Chi
+ORD00441,2026-05-27,C084,Le Minh Chau,Tablet,Electronics,1,515.66,0.0,South,Lan
+ORD00156,2026-05-28,C093,Tran Minh,Printer,Office,1,210.55,0.2,West,Chi
+ORD00170,2026-05-28,C096,Pham Quang Duy,Mouse,Accessories,1,31.39,0.1,South,Dung
+ORD00184,2026-05-28,C033,Ngo Minh Quan,Tablet,Electronics,1,509.45,0.05,South,Dung
+ORD00291,2026-05-28,C088,Tran Minh,Mouse,Accessories,6,30.79,0.0,West,Binh
+ORD00411,2026-05-28,C087,Ngo Minh Quan,Mouse,Accessories,5,31.81,0.15,Central,Chi
+ORD00317,2026-05-30,C048,Doan Thu Phuong,Laptop,Electronics,2,1289.52,0.0,Central,Lan
+ORD00084,2026-05-31,C055,Tran Minh,Keyboard,Accessories,3,55.93,0.0,Central,Lan
+ORD00268,2026-05-31,C096,Huynh Kim Thao,Keyboard,Accessories,10,60.56,0.1,Central,An
+ORD00315,2026-05-31,C059,Huynh Kim Thao,Desk,Office,1,287.65,0.15,South,Trang
+ORD00029,2026-06-01,C054,Bui Gia Nam,Mouse,Accessories,2,31.91,0.1,North,Trang
+ORD00259,2026-06-01,C099,Bui Gia Nam,Laptop,Electronics,1,1117.84,0.1,North,Huy
+ORD00373,2026-06-01,C079,Vo Thanh Lam,Desk,Office,1,294.45,0.1,East,Huy
+ORD00276,2026-06-03,C037,Vo Thanh Lam,Mouse,Accessories,3,28.64,0.1,West,Lan
+ORD00443,2026-06-03,C089,Ngo Minh Quan,Keyboard,Accessories,3,64.29,0.1,West,Minh
+ORD00168,2026-06-04,C017,Bui Gia Nam,Chair,Office,1,168.02,0.0,South,Dung
+ORD00216,2026-06-05,C093,Ngo Minh Quan,Headphones,Accessories,3,95.0,0.15,North,Dung
+ORD00306,2026-06-05,C095,Huynh Kim Thao,Headphones,Accessories,1,87.45,0.1,Central,Huy
+ORD00312,2026-06-05,C047,Dang Ngoc Mai,Laptop,Electronics,4,1164.46,0.0,North,Dung
+ORD00344,2026-06-05,C037,Dang Ngoc Mai,Laptop,Electronics,2,1202.24,0.05,East,Huy
+ORD00447,2026-06-05,C015,Pham Quang Duy,Mouse,Accessories,1,31.99,0.1,West,Chi
+ORD00326,2026-06-06,C051,Pham Quang Duy,Monitor,Electronics,1,346.93,0.15,East,Dung
+ORD00335,2026-06-07,C047,Dang Ngoc Mai,Tablet,Electronics,4,460.17,0.1,North,Minh
+ORD00167,2026-06-08,C082,Pham Quang Duy,Webcam,Electronics,1,77.92,0.0,South,Lan
+ORD00193,2026-06-08,C058,Mai Anh,Laptop,Electronics,1,1270.71,0.05,East,Huy
+ORD00187,2026-06-09,C041,Tran Thi Binh,Desk,Office,1,259.93,0.15,East,Trang
+ORD00012,2026-06-11,C033,Dang Ngoc Mai,Mouse,Accessories,1,30.59,0.1,West,Chi
+ORD00103,2026-06-11,C076,Le Minh Chau,Chair,Office,2,194.14,0.15,Central,An
+ORD00177,2026-06-11,C061,Le Minh Chau,Mouse,Accessories,2,31.08,0.0,North,An
+ORD00011,2026-06-12,C033,Huynh Kim Thao,Keyboard,Accessories,1,62.03,0.0,West,Binh
+ORD00025,2026-06-13,C019,Ngo Minh Quan,Headphones,Accessories,4,87.49,0.1,Central,Minh
+ORD00055,2026-06-13,C089,Hoang Thu Ha,Monitor,Electronics,4,371.14,0.05,West,An
+ORD00116,2026-06-13,C054,Dang Ngoc Mai,Webcam,Electronics,1,70.99,0.0,North,An
+ORD00138,2026-06-13,C059,Dang Ngoc Mai,Chair,Office,1,178.19,0.1,Central,Lan
+ORD00220,2026-06-13,C030,Tran Thi Binh,Keyboard,Accessories,5,58.19,0.05,South,An
+ORD00253,2026-06-13,C081,Le Minh Chau,Keyboard,Accessories,10,64.41,0.1,North,Dung
+ORD00336,2026-06-13,C082,Hoang Thu Ha,Webcam,Electronics,1,78.6,0.05,Central,Minh
+ORD00445,2026-06-13,C083,Nguyen Van An,Mouse,Accessories,1,28.81,0.05,South,Dung
+ORD00270,2026-06-14,C061,Nguyen Van An,Headphones,Accessories,1,88.75,0.0,Central,Minh
+ORD00390,2026-06-14,C006,Dang Ngoc Mai,Headphones,Accessories,1,88.1,0.0,West,An
+ORD00419,2026-06-15,C085,Mai Anh,Headphones,Accessories,1,86.06,0.2,East,Chi
+ORD00446,2026-06-15,C017,Ngo Minh Quan,Desk,Office,3,267.22,0.1,South,Chi
+ORD00065,2026-06-16,C091,Ngo Minh Quan,Mouse,Accessories,4,29.41,0.05,South,Chi
+ORD00225,2026-06-16,C074,Doan Thu Phuong,Keyboard,Accessories,2,63.37,0.1,South,Chi
+ORD00418,2026-06-18,C057,Mai Anh,Keyboard,Accessories,8,60.45,0.0,North,Dung
+ORD00150,2026-06-19,C034,Nguyen Ha,Webcam,Electronics,3,69.29,0.0,Central,Minh
+ORD00224,2026-06-19,C072,Bui Gia Nam,Chair,Office,3,175.99,0.0,North,Binh
+ORD00465,2026-06-19,C078,Ngo Minh Quan,Monitor,Electronics,1,331.28,0.0,South,Minh
+ORD00052,2026-06-20,C012,Le Minh Chau,Desk,Office,3,293.94,0.0,North,An
+ORD00201,2026-06-20,C076,Nguyen Van An,Mouse,Accessories,5,28.79,0.0,North,Trang
+ORD00388,2026-06-20,C025,Pham Quang Duy,Mouse,Accessories,3,27.65,0.05,South,Dung
+ORD00440,2026-06-20,C055,Dang Ngoc Mai,Keyboard,Accessories,2,64.5,0.05,Central,Huy
+ORD00494,2026-06-20,C066,Ngo Minh Quan,Printer,Office,3,229.04,0.2,West,Chi
+ORD00206,2026-06-21,C038,Pham Quang Duy,Webcam,Electronics,2,74.87,0.05,West,Dung
+ORD00258,2026-06-21,C065,Dang Ngoc Mai,Webcam,Electronics,2,70.27,0.15,West,Trang
+ORD00308,2026-06-21,C011,Tran Thi Binh,Webcam,Electronics,5,77.52,0.05,East,Dung
+ORD00475,2026-06-22,C082,Tran Thi Binh,Headphones,Accessories,8,92.14,0.0,West,Huy
+ORD00004,2026-06-24,C062,Le Minh Chau,Monitor,Electronics,2,347.54,0.0,East,Minh
+ORD00013,2026-06-24,C078,Le Minh Chau,Printer,Office,1,215.88,0.05,North,Huy
+ORD00467,2026-06-24,C033,Nguyen Ha,Keyboard,Accessories,8,60.55,0.05,North,Chi
+ORD00128,2026-06-25,C082,Dang Ngoc Mai,Mouse,Accessories,3,29.01,0.0,South,Minh
+ORD00162,2026-06-25,C090,Tran Thi Binh,Keyboard,Accessories,1,61.88,0.0,West,Dung
+ORD00488,2026-06-25,C006,Doan Thu Phuong,Webcam,Electronics,5,79.3,0.05,Central,Trang
+ORD00194,2026-06-26,C051,Doan Thu Phuong,Mouse,Accessories,2,27.79,0.2,East,Binh
+ORD00262,2026-06-27,C067,Nguyen Van An,Keyboard,Accessories,4,58.87,0.05,East,Lan
+ORD00450,2026-06-27,C067,Nguyen Ha,Laptop,Electronics,1,1172.13,0.15,South,An
+ORD00183,2026-06-28,C088,Doan Thu Phuong,Chair,Office,8,186.46,0.15,North,Dung
+ORD00060,2026-06-29,C085,Pham Quang Duy,Headphones,Accessories,1,91.48,0.0,West,Minh
+ORD00260,2026-06-29,C015,Le Minh Chau,Headphones,Accessories,2,97.08,0.05,Central,Dung
+ORD00424,2026-06-29,C025,Huynh Kim Thao,Tablet,Electronics,1,508.12,0.0,West,Huy
+ORD00449,2026-06-29,C047,Tran Minh,Keyboard,Accessories,3,55.68,0.1,North,An
+ORD00057,2026-07-02,C013,Dang Ngoc Mai,Printer,Office,5,210.8,0.05,North,Chi
+ORD00358,2026-07-02,C100,Vo Thanh Lam,Headphones,Accessories,1,89.88,0.1,Central,An
+ORD00160,2026-07-03,C067,Huynh Kim Thao,Laptop,Electronics,6,1191.83,0.1,East,Huy
+ORD00417,2026-07-04,C049,Dang Ngoc Mai,Desk,Office,4,264.39,0.05,West,Trang
+ORD00071,2026-07-05,C060,Tran Thi Binh,Printer,Office,1,218.72,0.0,East,Dung
+ORD00278,2026-07-05,C055,Pham Quang Duy,Webcam,Electronics,2,70.25,0.1,East,Trang
+ORD00176,2026-07-06,C084,Vo Thanh Lam,Monitor,Electronics,2,345.5,0.15,Central,An
+ORD00423,2026-07-06,C034,Tran Minh,Desk,Office,1,289.38,0.05,North,An
+ORD00036,2026-07-07,C097,Pham Quang Duy,Tablet,Electronics,2,505.78,0.05,West,Huy
+ORD00231,2026-07-07,C005,Phan Duc Tuan,Mouse,Accessories,3,31.59,0.0,Central,Trang
+ORD00345,2026-07-07,C018,Phan Duc Tuan,Webcam,Electronics,2,69.31,0.0,Central,Chi
+ORD00031,2026-07-08,C041,Pham Quang Duy,Keyboard,Accessories,2,59.5,0.05,North,Dung
+ORD00203,2026-07-08,C020,Tran Thi Binh,Chair,Office,3,171.53,0.1,South,An
+ORD00490,2026-07-08,C031,Huynh Kim Thao,Desk,Office,8,298.06,0.1,West,Binh
+ORD00008,2026-07-09,C100,Nguyen Ha,Monitor,Electronics,8,374.61,0.1,East,An
+ORD00067,2026-07-10,C025,Bui Gia Nam,Printer,Office,4,236.27,0.05,North,Lan
+ORD00091,2026-07-11,C089,Dang Ngoc Mai,Laptop,Electronics,5,1180.26,0.0,West,Dung
+ORD00348,2026-07-11,C091,Ngo Minh Quan,Tablet,Electronics,2,462.48,0.0,Central,Binh
+ORD00171,2026-07-12,C022,Ngo Minh Quan,Keyboard,Accessories,4,60.79,0.0,Central,Binh
+ORD00038,2026-07-13,C027,Ngo Minh Quan,Headphones,Accessories,1,97.06,0.05,South,Binh
+ORD00473,2026-07-13,C041,Mai Anh,Mouse,Accessories,4,28.48,0.05,Central,Chi
+ORD00254,2026-07-15,C034,Pham Quang Duy,Printer,Office,2,207.65,0.0,East,Binh
+ORD00034,2026-07-16,C061,Le Minh Chau,Chair,Office,2,179.78,0.05,East,Chi
+ORD00076,2026-07-16,C095,Hoang Thu Ha,Monitor,Electronics,1,360.74,0.0,Central,Huy
+ORD00204,2026-07-17,C059,Hoang Thu Ha,Headphones,Accessories,8,84.56,0.0,North,An
+ORD00169,2026-07-18,C074,Doan Thu Phuong,Laptop,Electronics,5,1158.4,0.0,South,Minh
+ORD00382,2026-07-18,C013,Tran Thi Binh,Monitor,Electronics,3,322.16,0.1,West,Huy
+ORD00144,2026-07-19,C025,Tran Thi Binh,Printer,Office,4,224.83,0.1,North,Dung
+ORD00407,2026-07-19,C048,Huynh Kim Thao,Printer,Office,1,232.25,0.0,West,Chi
+ORD00072,2026-07-20,C033,Hoang Thu Ha,Mouse,Accessories,1,27.76,0.05,East,Huy
+ORD00117,2026-07-20,C053,Doan Thu Phuong,Webcam,Electronics,2,73.79,0.05,South,Dung
+ORD00208,2026-07-21,C030,Tran Thi Binh,Monitor,Electronics,4,374.9,0.1,South,An
+ORD00400,2026-07-21,C046,Mai Anh,Laptop,Electronics,1,1192.26,0.1,Central,Lan
+ORD00437,2026-07-21,C057,Bui Gia Nam,Chair,Office,1,173.56,0.0,South,Lan
+ORD00498,2026-07-21,C022,Le Minh Chau,Headphones,Accessories,4,92.14,0.05,North,Trang
+ORD00023,2026-07-22,C056,Huynh Kim Thao,Headphones,Accessories,10,92.48,0.0,North,Minh
+ORD00173,2026-07-22,C058,Dang Ngoc Mai,Laptop,Electronics,5,1261.21,0.0,South,Binh
+ORD00175,2026-07-22,C027,Le Minh Chau,Keyboard,Accessories,5,57.41,0.1,North,Lan
+ORD00114,2026-07-23,C100,Pham Quang Duy,Headphones,Accessories,3,95.36,0.0,West,Trang
+ORD00202,2026-07-23,C037,Nguyen Van An,Mouse,Accessories,2,29.31,0.05,North,Trang
+ORD00237,2026-07-23,C038,Pham Quang Duy,Keyboard,Accessories,4,61.04,0.1,South,Huy
+ORD00431,2026-07-23,C080,Huynh Kim Thao,Webcam,Electronics,1,75.63,0.1,Central,Binh
+ORD00075,2026-07-24,C033,Tran Thi Binh,Printer,Office,2,232.04,0.15,North,Chi
+ORD00289,2026-07-24,C070,Phan Duc Tuan,Keyboard,Accessories,1,59.52,0.1,North,Huy
+ORD00180,2026-07-25,C071,Nguyen Van An,Tablet,Electronics,3,498.52,0.1,East,Dung
+ORD00274,2026-07-25,C014,Doan Thu Phuong,Headphones,Accessories,5,94.79,0.1,South,Huy
+ORD00466,2026-07-25,C039,Dang Ngoc Mai,Monitor,Electronics,1,356.03,0.05,Central,Lan
+ORD00269,2026-07-26,C052,Huynh Kim Thao,Tablet,Electronics,1,470.54,0.0,South,Minh
+ORD00340,2026-07-26,C090,Hoang Thu Ha,Desk,Office,3,261.38,0.0,West,Lan
+ORD00486,2026-07-26,C079,Pham Quang Duy,Keyboard,Accessories,3,61.55,0.0,East,Binh
+ORD00234,2026-07-27,C062,Nguyen Ha,Tablet,Electronics,1,476.07,0.05,North,Minh
+ORD00363,2026-07-27,C076,Tran Thi Binh,Desk,Office,4,271.01,0.0,North,Trang
+ORD00324,2026-07-28,C098,Bui Gia Nam,Monitor,Electronics,1,359.48,0.15,North,Trang
+ORD00389,2026-07-28,C092,Ngo Minh Quan,Mouse,Accessories,4,28.88,0.05,East,Chi
+ORD00401,2026-07-28,C075,Mai Anh,Webcam,Electronics,2,77.09,0.15,South,Chi
+ORD00462,2026-07-28,C076,Dang Ngoc Mai,Headphones,Accessories,1,92.55,0.1,Central,Lan
+ORD00239,2026-07-29,C055,Vo Thanh Lam,Headphones,Accessories,5,96.37,0.0,Central,Lan
+ORD00497,2026-07-29,C087,Huynh Kim Thao,Laptop,Electronics,2,1234.09,0.05,West,Dung
+ORD00285,2026-07-31,C049,Hoang Thu Ha,Webcam,Electronics,1,74.54,0.0,South,Trang
+ORD00409,2026-07-31,C020,Hoang Thu Ha,Tablet,Electronics,1,489.74,0.1,Central,Chi
+ORD00461,2026-08-01,C061,Doan Thu Phuong,Mouse,Accessories,2,31.81,0.15,Central,Huy
+ORD00149,2026-08-02,C025,Mai Anh,Mouse,Accessories,3,30.18,0.1,South,An
+ORD00435,2026-08-02,C069,Huynh Kim Thao,Keyboard,Accessories,2,58.4,0.0,South,Lan
+ORD00130,2026-08-03,C012,Pham Quang Duy,Chair,Office,2,176.54,0.0,West,Huy
+ORD00083,2026-08-04,C069,Tran Thi Binh,Monitor,Electronics,6,336.46,0.05,West,Binh
+ORD00327,2026-08-04,C034,Huynh Kim Thao,Keyboard,Accessories,4,57.72,0.2,North,An
+ORD00369,2026-08-06,C013,Bui Gia Nam,Webcam,Electronics,1,70.74,0.05,East,Binh
+ORD00321,2026-08-08,C008,Tran Thi Binh,Keyboard,Accessories,4,55.82,0.05,North,Huy
+ORD00039,2026-08-09,C042,Dang Ngoc Mai,Chair,Office,4,175.95,0.1,South,Chi
+ORD00249,2026-08-09,C052,Pham Quang Duy,Printer,Office,1,210.17,0.0,East,Lan
+ORD00322,2026-08-09,C062,Nguyen Van An,Printer,Office,6,205.18,0.0,East,Chi
+ORD00399,2026-08-12,C061,Ngo Minh Quan,Laptop,Electronics,2,1250.13,0.0,West,Lan
+ORD00479,2026-08-12,C058,Pham Quang Duy,Mouse,Accessories,3,29.28,0.05,North,Chi
+ORD00485,2026-08-12,C028,Hoang Thu Ha,Printer,Office,4,221.01,0.0,South,Lan
+ORD00094,2026-08-14,C059,Bui Gia Nam,Monitor,Electronics,2,358.17,0.0,Central,Huy
+ORD00140,2026-08-14,C073,Ngo Minh Quan,Printer,Office,1,223.41,0.05,South,Huy
+ORD00495,2026-08-14,C055,Phan Duc Tuan,Headphones,Accessories,3,88.26,0.1,West,Minh
+ORD00030,2026-08-15,C089,Le Minh Chau,Webcam,Electronics,8,77.03,0.1,North,Huy
+ORD00172,2026-08-15,C052,Mai Anh,Webcam,Electronics,10,78.0,0.15,East,Minh
+ORD00226,2026-08-15,C098,Nguyen Van An,Printer,Office,2,208.31,0.05,West,An
+ORD00250,2026-08-15,C007,Huynh Kim Thao,Mouse,Accessories,1,29.76,0.15,East,Lan
+ORD00272,2026-08-15,C096,Ngo Minh Quan,Chair,Office,4,173.6,0.15,South,Chi
+ORD00093,2026-08-16,C086,Tran Thi Binh,Mouse,Accessories,2,29.9,0.05,North,Dung
+ORD00372,2026-08-16,C072,Vo Thanh Lam,Monitor,Electronics,4,347.42,0.1,East,Dung
+ORD00109,2026-08-17,C027,Dang Ngoc Mai,Webcam,Electronics,4,72.74,0.0,North,Lan
+ORD00199,2026-08-17,C005,Tran Minh,Monitor,Electronics,2,336.46,0.15,North,Trang
+ORD00464,2026-08-17,C006,Phan Duc Tuan,Headphones,Accessories,2,95.23,0.1,South,Lan
+ORD00159,2026-08-18,C013,Bui Gia Nam,Chair,Office,4,189.1,0.0,West,Minh
+ORD00265,2026-08-20,C059,Nguyen Ha,Laptop,Electronics,1,1122.24,0.05,East,Binh
+ORD00020,2026-08-21,C052,Nguyen Van An,Mouse,Accessories,8,30.09,0.0,North,Binh
+ORD00393,2026-08-21,C029,Tran Thi Binh,Mouse,Accessories,2,27.92,0.0,South,Dung
+ORD00395,2026-08-21,C017,Huynh Kim Thao,Tablet,Electronics,3,466.05,0.15,South,Dung
+ORD00425,2026-08-21,C088,Tran Thi Binh,Monitor,Electronics,2,342.68,0.05,Central,Lan
+ORD00037,2026-08-22,C095,Vo Thanh Lam,Monitor,Electronics,1,342.87,0.05,South,Chi
+ORD00120,2026-08-23,C022,Ngo Minh Quan,Monitor,Electronics,1,365.71,0.0,East,Binh
+ORD00164,2026-08-25,C033,Vo Thanh Lam,Webcam,Electronics,2,75.79,0.05,Central,Trang
+ORD00412,2026-08-25,C041,Mai Anh,Chair,Office,1,169.87,0.15,East,Huy
+ORD00133,2026-08-26,C004,Ngo Minh Quan,Desk,Office,2,286.5,0.0,South,Huy
+ORD00240,2026-08-27,C049,Ngo Minh Quan,Headphones,Accessories,10,85.8,0.1,South,Huy
+ORD00024,2026-08-28,C016,Nguyen Van An,Chair,Office,2,177.09,0.2,North,Dung
+ORD00282,2026-08-28,C047,Huynh Kim Thao,Tablet,Electronics,3,510.89,0.0,East,Chi
+ORD00334,2026-08-28,C033,Mai Anh,Mouse,Accessories,6,30.52,0.1,South,Minh
+ORD00157,2026-08-29,C003,Bui Gia Nam,Headphones,Accessories,1,85.98,0.0,West,Huy
+ORD00158,2026-08-29,C061,Huynh Kim Thao,Printer,Office,1,223.42,0.05,South,Chi
+ORD00329,2026-08-29,C099,Bui Gia Nam,Monitor,Electronics,1,340.56,0.2,Central,Trang
+ORD00286,2026-08-30,C035,Nguyen Van An,Headphones,Accessories,1,93.28,0.0,North,Dung
+ORD00499,2026-08-30,C047,Nguyen Van An,Chair,Office,2,166.82,0.0,West,Lan
+ORD00096,2026-08-31,C031,Bui Gia Nam,Keyboard,Accessories,1,55.97,0.15,West,Dung
+ORD00192,2026-08-31,C035,Mai Anh,Mouse,Accessories,3,27.99,0.05,West,Lan
+ORD00353,2026-08-31,C001,Phan Duc Tuan,Mouse,Accessories,1,30.28,0.15,West,Chi
+ORD00359,2026-08-31,C081,Le Minh Chau,Headphones,Accessories,2,96.03,0.05,West,Lan
+ORD00420,2026-08-31,C036,Tran Minh,Webcam,Electronics,1,72.72,0.0,North,Huy
